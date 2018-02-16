@@ -4,9 +4,7 @@ npm-debug.log
 .DS_Store
 .idea
 .vscode
-dist
-lib
-es
+
 tmp
 coverage
 docs-site/bundle.js
